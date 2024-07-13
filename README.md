@@ -1,6 +1,6 @@
 # Rajkot app
 
-The Rajkot App is a Flutter-based mobile application designed to help users explore the beautiful city of Rajkot. This application provides comprehensive information on various tourist places, hotels, malls, and restaurants. Users can easily filter and find the best places to visit, stay, shop, and dine in Rajkot, making their travel experience enjoyable and convenient.This project is helpful for rajkot people
+The Rajkot App is a Flutter-based mobile application designed to help users explore the beautiful city of Rajkot. This application provides comprehensive information on various tourist places, hotels, malls, and restaurants. Users can easily filter and find the best places to visit, stay, shop, and dine in Rajkot, making their travel experience enjoyable and convenient.This project will helpful for rajkot people
 
 # Features
 <b>Tourist Attractions:</b> Discover and explore popular tourist spots in Rajkot.<br>

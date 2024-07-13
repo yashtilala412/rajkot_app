@@ -9,7 +9,10 @@ The Rajkot App is a Flutter-based mobile application designed to help users expl
 <br><b>Restaurants:</b> Explore various dining options, including local and international cuisines.
 <br><b>Filter Options: </b>Easily filter places by categories, ratings, and other preferences to find exactly what you're looking for.
 <br><b>User-Friendly Interface:</b> A clean and intuitive UI built with Flutter ensures a smooth user experience.
-
+# Tools and technologies
+VSCode
+Flutter
+APIs
 # Installation
 # Clone this repository
 ```
